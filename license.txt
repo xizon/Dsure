@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------------------
+ 
+ Dsure Web Development Framework
+-------------------------------------------------------------------------------------------------
+
+ This Product  is released under a Creative Commons Attribution 3.0 License
+
+ License text may be found here:
+ http://creativecommons.org/licenses/by-nc/3.0/deed.zh
+
