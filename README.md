@@ -26,5 +26,8 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 ### Credits:
 
 ✓ <https://icomoon.io/>
+
 ✓ <http://modernizr.com/>
+
 ✓ <https://github.com/scottjehl/Respond/>
+
