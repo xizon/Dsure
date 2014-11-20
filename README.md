@@ -61,6 +61,8 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 - Pure CSS development framework which based on HTML and CSS3.
 - Do not include the additional javascript plug-ins.
 - Compatible with any version of the Designers Site Program <http://www.c945.com/d-s> perfectly.
+- 384 web vector icons and  adjusted freely.
+- Easy to change the button control with a rich combination.
 
 ### Official website:
 <http://www.c945.com/d-s/dsure>
