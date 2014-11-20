@@ -1,5 +1,50 @@
 #  Dsure Web Development Framework
 
+### 中文介绍:
+
+简介：
+Dsure基于纯CSS的HTML5网站响应式开发框架,可用于国内/外网站开发，完美适用于Designers Site Program 全站静态系统
+
+来历：
+Dsure参考了国内/外优秀的框架库,经过仔细研究探讨,针对国内和国外网站开发需求,重构编写了一套更适宜于国内(包括国外)的网站CSS/HTML开发框架,在这里它主要运用于Designers Site Program 全站静态系统的各类高端网站主题开发，当然如果你喜欢，也可以用于其它网站的框架开发 ^_^
+
+特色：
++ 兼容IE6+, Firefox, Safari, Opera, Chrome 等主流浏览器,更高效适应国内/外网站 
+
++ 18种常用色彩方案，灵活运动到各标签元素控件中 
+
++ 12列自适应百分比网格(栅格)系统，适应各种分辨率和平台 
+
++ 纯CSS开发框架，基于HTML5+CSS3 
+
++ 完美兼容个版本的Designers Site Program 全站静态系统 
+
++ 无任何的Javascript效果代码参与到框架开发中,极大程度方便您自己扩展js组件和插件
+
++ 384个常用web矢量图标,icon大小和颜色灵活变更 
+
++ 丰富的组合样式,按钮控件样式轻松变
+
+
+
+模块：
+基础框架 (Base) *必须*
+样式叠加 (Base) *通用*
+内容/文本 (Text)
+按钮 (Buttons)
+表单 (Forms)
+表格 (Tables)
+网格/栅格系统 (Grids)
+循环列表布局 (Layouts)
+图标 (Icons)
+图片 (Images)
+分割线 (Dividing Line)
+分页 (Paginators)
+导航菜单 (Navigation)
+分类导航 (Classification)
+醒目牌 (Striking)
+搜索框 (Search Box)
+标签集 (Tags)
 
 ### Typical uses:
 
@@ -30,4 +75,6 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 ✓ <http://modernizr.com/>
 
 ✓ <https://github.com/scottjehl/Respond/>
+
+
 
