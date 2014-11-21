@@ -1,5 +1,9 @@
 #  Dsure Web Development Framework
 
+### 注意事项:
+
+  如果使用扁平化风格，调用核心CSS文件请将dsure.css改为dsure.flat.css
+
 ### 中文介绍:
 
 简介：
@@ -96,7 +100,9 @@ Dsure参考了国内/外优秀的框架库,经过仔细研究探讨,针对国内
 </html>
 
 ```
+### Alert:
 
+  If use flat style when the core CSS file is "dsure.flat.css" not "dsure.css".
 
 ### Typical uses:
 
@@ -144,7 +150,7 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
     <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-    <title>网站标题</title>
+    <title>Site Name</title>
     
 
     <!-- Dsure  Development Framework  begin  -->
@@ -160,7 +166,10 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
     <!-- /Dsure Development Framework  end   -->
     
     <!-- Other extended .css&.js file  begin  -->
-         <!--网站加载完成前所要用到的其它的css文件和js文件，请放置到这块区域-->  
+         
+         ...
+         
+         
     <!-- /Other extended .css&.js file  end   -->
     
 
