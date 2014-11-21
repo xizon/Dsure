@@ -2,7 +2,7 @@
 
 ### 注意事项:
 
-  如果使用扁平化风格，调用核心CSS文件请将dsure.css改为dsure.flat.css
+  如果使用扁平化风格，调用的核心CSS文件是"dsure.flat.css"而不是"dsure.css"
 
 ### 中文介绍:
 
