@@ -46,6 +46,58 @@ Dsure参考了国内/外优秀的框架库,经过仔细研究探讨,针对国内
 搜索框 (Search Box)
 标签集 (Tags)
 
+### 如何使用?
+
+```html
+<!doctype html><!-- Template OK -->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie9"> <![endif]-->
+<!--[if !IE]><!--> <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js"> <!--<![endif]-->
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    <title>网站标题</title>
+    
+
+    <!-- Dsure  Development Framework  begin  -->
+        <link rel="stylesheet" type="text/css" href="dsure/dsure.css" />
+        <script src="dsure/dsure.modernizr.js"></script>
+        <!--[if lt IE 7 ]>  
+            <script src="dsure/dsure.png.js"></script>  
+            <script>  
+            DD_belatedPNG.fix('img, a, span, h1, h2, h3, em, section, header');
+            document.execCommand("BackgroundImageCache", false, true);
+            </script>  
+        <![endif]-->  
+    <!-- /Dsure Development Framework  end   -->
+    
+    <!-- Other extended .css&.js file  begin  -->
+         <!--网站加载完成前所要用到的其它的css文件和js文件，请放置到这块区域-->  
+    <!-- /Other extended .css&.js file  end   -->
+    
+
+    <!-- Dsure  Development Framework  begin  -->
+        <!--[if lt IE 9]>  
+            <script src="dsure/dsure.respond.js"></script>  
+        <![endif]-->  
+    <!-- /Dsure Development Framework  end   -->
+
+
+</head>
+<body>
+
+    ....
+
+</body>
+</html>
+
+```
+
+
 ### Typical uses:
 
 Improve the efficiency of CSS/HTML website based development and responsive layout.
@@ -78,5 +130,55 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 
 ✓ <https://github.com/scottjehl/Respond/>
 
+
+### How does it work?
+```html
+<!doctype html><!-- Template OK -->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js ie ie9"> <![endif]-->
+<!--[if !IE]><!--> <html dir="ltr" lang="zh-CN" xml:lang="zh-CN" class="no-js"> <!--<![endif]-->
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    <title>网站标题</title>
+    
+
+    <!-- Dsure  Development Framework  begin  -->
+        <link rel="stylesheet" type="text/css" href="dsure/dsure.css" />
+        <script src="dsure/dsure.modernizr.js"></script>
+        <!--[if lt IE 7 ]>  
+            <script src="dsure/dsure.png.js"></script>  
+            <script>  
+            DD_belatedPNG.fix('img, a, span, h1, h2, h3, em, section, header');
+            document.execCommand("BackgroundImageCache", false, true);
+            </script>  
+        <![endif]-->  
+    <!-- /Dsure Development Framework  end   -->
+    
+    <!-- Other extended .css&.js file  begin  -->
+         <!--网站加载完成前所要用到的其它的css文件和js文件，请放置到这块区域-->  
+    <!-- /Other extended .css&.js file  end   -->
+    
+
+    <!-- Dsure  Development Framework  begin  -->
+        <!--[if lt IE 9]>  
+            <script src="dsure/dsure.respond.js"></script>  
+        <![endif]-->  
+    <!-- /Dsure Development Framework  end   -->
+
+
+</head>
+<body>
+
+    ....
+
+</body>
+</html>
+
+```
 
 
