@@ -62,7 +62,8 @@ Dsure参考了国内/外优秀的框架库,经过仔细研究探讨,针对国内
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
     <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
     <title>网站标题</title>
     
@@ -148,7 +149,8 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
     <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
     <title>Site Name</title>
     
