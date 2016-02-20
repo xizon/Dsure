@@ -1,6 +1,10 @@
-#  Dsure Web Development Framework ` (*Note: This procedure only learning and exchange. *)
+#  Dsure Web Development Framework 
+#  *Note: This procedure only learning and exchange.*
 
 ### Updates 
+
+** Version 1.0.0 **
+Initial Release.
 
 May 2, 2014 (Ultimate Edition)
 
