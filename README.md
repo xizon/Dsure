@@ -21,6 +21,17 @@
 - Search Box
 - Tags
 
+### Browser compatibility:
+
+Tested under:
+
+- Safari 4+
+- Chrome 4+
+- Firefox 3.5+
+- Opera 10.15+
+- Internet Explorer 6+
+- Other
+
 
 ### Alert:
 
