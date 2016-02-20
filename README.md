@@ -1,4 +1,8 @@
-#  Dsure Web Development Framework
+#  Dsure Web Development Framework (*Note: This procedure only learning and exchange. *)
+
+### Updates 
+
+May 2, 2014 (Ultimate Edition)
 
 
 ### Module
