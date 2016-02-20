@@ -191,5 +191,9 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 </html>
 
 ```
+h2. Licensing
 
+ This Product  is released under a Creative Commons Attribution 3.0 License
 
+ License text may be found here:
+ http://creativecommons.org/licenses/by-nc/3.0/deed.zh
