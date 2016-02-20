@@ -191,7 +191,7 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 </html>
 
 ```
-h2. Licensing
+### Licensing
 
  This Product  is released under a Creative Commons Attribution 3.0 License
 
