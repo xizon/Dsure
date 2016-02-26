@@ -1,8 +1,8 @@
 # Dsure Front-end Development Framework that Web Designers  
 
-# *Ultimate Personal Learning Edition 2014*
+## *Ultimate Personal Learning Edition 2014*
 
-##  *Note: This procedure only learning and exchange.*
+**Note: This procedure only learning and exchange.**
 
 
 ### Module
