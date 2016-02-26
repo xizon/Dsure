@@ -1,4 +1,7 @@
-#  Dsure Web Development Framework  (Ultimate Edition 2014)
+# Dsure Front-end Development Framework that Web Designers  
+
+# *Ultimate Personal Learning Edition 2014*
+
 ##  *Note: This procedure only learning and exchange.*
 
 
