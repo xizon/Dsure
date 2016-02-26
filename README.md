@@ -1,4 +1,4 @@
-# Dsure Front-end Development Framework that Web Designers  
+# Dsure Front-end Development Framework
 
 ## *Ultimate Personal Learning Edition 2014*
 
