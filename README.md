@@ -1,12 +1,5 @@
-#  Dsure Web Development Framework 
+#  Dsure Web Development Framework  (Ultimate Edition 2014)
 ##  *Note: This procedure only learning and exchange.*
-
-### Updates 
-
-** Version 1.0.0 **
-Initial Release.
-
-May 2, 2014 (Ultimate Edition)
 
 
 ### Module
@@ -41,9 +34,9 @@ Tested under:
 - Other
 
 
-### Alert:
+### Note:
 
-  If use flat style when the core CSS file is "dsure.flat.css" not "dsure.css".
+  If use flat style when the core CSS file is `dsure.flat.css` not `dsure.css`.
 
 ### Typical uses:
 
