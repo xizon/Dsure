@@ -68,15 +68,6 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 Check out: <http://www.c945.com/d-s/dsure-en>
 
 
-### Credits:
-
-✓ <https://icomoon.io/>
-
-✓ <http://modernizr.com/>
-
-✓ <https://github.com/scottjehl/Respond/>
-
-
 ### How does it work?
 ```html
 <!doctype html><!-- Template OK -->
@@ -136,3 +127,14 @@ Check out: <http://www.c945.com/d-s/dsure-en>
 
  License text may be found here:
  http://creativecommons.org/licenses/by-nc/3.0/deed.zh
+ 
+
+
+### Credits:
+
+✓ <https://icomoon.io/>
+
+✓ <http://modernizr.com/>
+
+✓ <https://github.com/scottjehl/Respond/>
+
