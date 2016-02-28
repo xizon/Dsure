@@ -60,7 +60,7 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 
 ### How to use?
 
-Check out: <http://www.c945.com/d-s/dsure-en>
+Check out: <http://www.c945.com/d-s/dsure>
 
 ### Note:
 
