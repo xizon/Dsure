@@ -43,7 +43,7 @@ Tested under:
 
 ### Note:
 
-  If use flat style when the core CSS file is #####`dsure.flat.css`##### not #####`dsure.css`#####.
+  **If use flat style when the core CSS file is `dsure.flat.css` not `dsure.css`.**
 
 ### Typical uses:
 
