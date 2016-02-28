@@ -43,7 +43,7 @@ Tested under:
 
 ### Note:
 
-  If use flat style when the core CSS file is `dsure.flat.css` not `dsure.css`.
+  If use flat style when the core CSS file is #####`dsure.flat.css`##### not #####`dsure.css`#####.
 
 ### Typical uses:
 
@@ -85,7 +85,7 @@ Check out: <http://www.c945.com/d-s/dsure-en>
     
 
     <!-- Dsure  Development Framework  begin  -->
-        <link rel="stylesheet" type="text/css" href="dsure/dsure.css" />
+        <link rel="stylesheet" type="text/css" href="dsure/dsure.flat.css" />
         <script src="dsure/dsure.modernizr.js"></script>
         <!--[if lt IE 7 ]>  
             <script src="dsure/dsure.png.js"></script>  
