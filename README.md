@@ -41,10 +41,6 @@ Tested under:
 - Other
 
 
-### Note:
-
-  **If use flat style when the core CSS file is `dsure.flat.css` not `dsure.css`.**
-
 ### Typical uses:
 
 Improve the efficiency of CSS/HTML website based development and responsive layout.
@@ -66,6 +62,9 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 
 Check out: <http://www.c945.com/d-s/dsure-en>
 
+### Note:
+
+  **If use flat style when the core CSS file is `dsure.flat.css` not `dsure.css`.**
 
 ### How does it work?
 ```html
