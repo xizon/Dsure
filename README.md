@@ -4,6 +4,10 @@
 
 **Note: This procedure only learning and exchange.**
 
+UIUX Lab [@uiux_lab](http://twitter.com/uiux_lab)
+
+[Author URI](http://uiux.cc)
+
 
 ### Module
 
@@ -59,11 +63,10 @@ IE6 +, Firefox, Safari, Opera, Chrome and more
 - 384 web vector icons and  adjusted freely.
 - Easy to change the button control with a rich combination.
 
-### Official website:
-<http://www.c945.com/d-s/dsure>
+### How to use?
 
-### Author:
-<http://www.c945.com>
+Check out: <http://www.c945.com/d-s/dsure>
+
 
 ### Credits:
 
