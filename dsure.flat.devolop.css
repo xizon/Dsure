@@ -1156,7 +1156,17 @@ a.dsure-c-btn:hover {
     float: left;
     overflow: hidden;
     display: block;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;	
 }
+
+@media all and (max-width: 768px) {
+	.dsure-columns {
+		width: 100%;
+		float: none;
+	}	
+}
+
 
 .dsure-small-1 {
     width: 8.33333%;
